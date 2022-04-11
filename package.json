@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-commerce",
+  "version": "1.0.0",
+  "description": "Simple MongoDB operations to learn NoSQL fundamentals.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-0x-mongodb-commerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-0x-mongodb-commerce/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-0x-mongodb-commerce#readme",
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-trybe-backend": "1.0.3",
+    "typescript": "4.0.5"
+  }
+}
